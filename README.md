@@ -261,7 +261,6 @@ When viewing an analysis in "processing" status, the app automatically polls the
 | Variable | Description | Default |
 |----------|-------------|---------|
 | `VITE_API_BASE` | Backend API base URL | `https://uyim24.uz:1300` |
-| `VITE_API_KEY` | API authentication key | `` |
 | `VITE_MOCK` | Enable mock mode | `false` |
 
 ### React Query Configuration
